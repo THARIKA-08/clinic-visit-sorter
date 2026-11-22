@@ -1,0 +1,7 @@
+.env
+*.key
+__pycache__/
+venv/
+.venv/
+nurse_queue.csv
+summary.txt
