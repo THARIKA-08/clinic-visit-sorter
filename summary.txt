@@ -1,0 +1,4 @@
+Total visits: 20
+By priority:  see_now 5 | today 12 | routine 3
+By category:  injury 3 | fever_cold 2 | stomach 3 | pain 6 | allergy 2 | other 4
+By hour:      09:00 AM 5 | 10:00 AM 6 | 11:00 AM 3 | 12:00 PM 3 | 01:00 PM 0 | 02:00 PM 2 | 03:00 PM 1

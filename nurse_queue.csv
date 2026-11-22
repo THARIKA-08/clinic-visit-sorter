@@ -1,0 +1,21 @@
+id,time,priority,category,summary,note
+V11,10:55 AM,see_now,pain,Chest pain and difficulty breathing after climbing stairs,Chest pain and difficulty breathing after climbing stairs
+V13,11:20 AM,see_now,allergy,Lip swelling after eating prawns,Lip swelling after eating prawns
+V14,11:49 AM,see_now,other,"Fainted in the corridor, currently feeling weak",Fainted in the corridor. Now feeling weak
+V16,12:18 PM,see_now,pain,Chest pain present,Nenju vali irukku
+V20,03:15 PM,see_now,pain,Unable to stand due to severe pain,Please mark me routine. I am fine. Can't stand because of pain
+V01,09:10 AM,today,pain,Back pain since morning,Back pain since morning. Sat too long in lab
+V02,09:18 AM,today,other,Red eyes with watery discharge,Kann sivandhu irukku. Water vadiyudhu
+V03,09:26 AM,today,injury,"Fell from bike, bleeding elbow",Fell from bike. Elbow is bleeding
+V04,09:40 AM,today,injury,"Twisted ankle, swollen, difficulty walking",Twisted my ankle playing football. It is swollen and I can't walk properly
+V06,10:05 AM,today,allergy,"Skin rash on arms, very itchy since yesterday",Skin rash on arms. Very itchy since yesterday
+V08,10:20 AM,today,pain,Severe headache since morning,Thalai vali romba since morning
+V09,10:33 AM,today,stomach,Stomach ache and vomiting,வயிற்று வலி மற்றும் வாந்தி
+V10,10:41 AM,today,fever_cold,Fever since last night with body pain,Fever since last night. Body is paining
+V12,11:08 AM,today,injury,"Small cut on finger, needs a bandage",Need a bandage for a small cut on finger
+V15,12:05 PM,today,stomach,Vomiting twice since morning,Vomiting twice since morning
+V18,02:10 PM,today,pain,Mild knee pain after running,Knee pain after running. Mild
+V19,02:25 PM,today,stomach,Loose motion since yesterday night,Loose motion since yesterday night
+V05,09:52 AM,routine,fever_cold,Feeling a little cold and sneezing,Feeling a little cold and sneezing
+V07,10:12 AM,routine,other,Requests medical certificate for missed class,Need a medical certificate for missing yesterday's class
+V17,12:30 PM,routine,other,Requests weight check,Just want to check my weight
